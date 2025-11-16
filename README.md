@@ -103,8 +103,6 @@ The system prompt turns the model into an "Edge Performance Copilot" that:
 - Explains performance issues in plain language
 - Suggests concrete steps and small code snippets
 
-See PROMPTS.md for the full system prompt and example interactions.
-
 ## Future improvements
 
 Planned enhancements include:
